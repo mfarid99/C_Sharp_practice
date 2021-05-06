@@ -6,8 +6,13 @@ namespace HelloWorld3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("{0}, {1}", byte.MinValue, byte.MaxValue);
-            Console.WriteLine("{0}, {1}", float.MinValue, float.MaxValue);
+            var rakam = "1234";
+            int num = Convert.ToInt32(rakam);
+            Console.WriteLine(num);
+
+            string str = "true";
+            bool strConvert = Convert.ToBoolean(str);
+            Console.WriteLine(strConvert);
             
 
 
