@@ -1,0 +1,12 @@
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/bin/Debug/netcoreapp3.1/HelloWorld3.deps.json
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/bin/Debug/netcoreapp3.1/HelloWorld3.runtimeconfig.json
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/bin/Debug/netcoreapp3.1/HelloWorld3.runtimeconfig.dev.json
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/bin/Debug/netcoreapp3.1/HelloWorld3.dll
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/bin/Debug/netcoreapp3.1/HelloWorld3.pdb
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/obj/Debug/netcoreapp3.1/HelloWorld3.csprojAssemblyReference.cache
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/obj/Debug/netcoreapp3.1/HelloWorld3.AssemblyInfoInputs.cache
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/obj/Debug/netcoreapp3.1/HelloWorld3.AssemblyInfo.cs
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/obj/Debug/netcoreapp3.1/HelloWorld3.csproj.CoreCompileInputs.cache
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/obj/Debug/netcoreapp3.1/HelloWorld3.dll
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/obj/Debug/netcoreapp3.1/HelloWorld3.pdb
+/Users/moefarid/Projects/HelloWorld3/HelloWorld3/obj/Debug/netcoreapp3.1/HelloWorld3.genruntimeconfig.cache
